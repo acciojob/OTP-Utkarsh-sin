@@ -5,8 +5,8 @@ function clickEvent(first,last){
     }
   }
 
-  function deleteEvent(last,first){
-    if(last.value.length==0){
-      document.getElementById(first).focus();
-    }
-  }
+  // function deleteEvent(last,first){
+  //   if(last.value.length==0){
+  //     document.getElementById(first).focus();
+  //   }
+  // }
