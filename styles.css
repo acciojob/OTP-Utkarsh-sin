@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.code-container{
+    display:flex;
+    justify-content: center;
+}
+
+h2,p{
+    text-align: center;
+}
